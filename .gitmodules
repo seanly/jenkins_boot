@@ -1,0 +1,3 @@
+[submodule "jenkins_home"]
+	path = jenkins_home
+	url = ssh://git@code.ppgame.com:30022/JenkinsABS/ci.digi-sky.com.git
