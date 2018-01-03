@@ -11,3 +11,5 @@ else
      cp -r /var/rancher/jenkins_home/* $DIR
      echo "Copy Finishied"
 fi
+
+chown -R 1000:1000 $DIR
