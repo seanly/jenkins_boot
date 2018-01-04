@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<org.ukiuni.callOtherJenkins.CallOtherJenkins.CallOtherJenkinsBuilder_-DescriptorImpl plugin="call-remote-job-plugin@1.0.21">
+  <https>false</https>
+</org.ukiuni.callOtherJenkins.CallOtherJenkins.CallOtherJenkinsBuilder_-DescriptorImpl>
